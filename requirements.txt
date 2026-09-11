@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+nltk
+Flask    # (Ya Streamlit, jo aap UI ke liye use karein)
+shap     # (Explainability ke liye)
+joblib   # (Model save karne ke liye)
+streamlit
+lime
